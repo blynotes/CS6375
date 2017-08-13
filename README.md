@@ -3,8 +3,8 @@ Project 2 for CS 6375 - Machine Learning
 
 ## Files:
   <ul>
-  <li><b>gh2.py</b>  - Original file provided by the professor.</li>
-  <li><b>our_mnist.py</b>  - Modified MNIST data to only use 1500 pieces of data.</li>
+  <li><b>gh2.py <em>(Provided by Professor)</em></b>  - Original file provided by the professor.</li>
+  <li><b>our_mnist.py <em>(Provided by Professor)</em></b>  - Modified MNIST data to only use 1500 pieces of data.</li>
   <li><b>script1.py</b>  - Modified gh2.py to use functions to dynamically create layers. Contains final parameters submitted for project.</li>
   <li><b>script1_checkLayerShapes.py</b>  - Given fixed parameters, iterate over different number of layers and number of nodes in each layer to determine optimal sizes of each for this specific problem.</li>
   <li><b>script1_automated.py</b>  - Iterate over different ranges of values for all hyperparameters and identify the optimal values for each hyperparameter.</li>
